@@ -1,0 +1,11 @@
+{
+    "name": "angel/p8-kalypso-gtd",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Angela",
+            "email": "antunezangela89@gmail.com"
+        }
+    ],
+    "require": {}
+}
